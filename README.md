@@ -21,6 +21,7 @@ here is the official list of supported programming languages:
 
 - C
 - C++
+- Go
 - Java
 - Python
 
