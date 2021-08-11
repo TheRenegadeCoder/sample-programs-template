@@ -11,3 +11,48 @@ or demonstrate your knowledge. It may well serve as a solid portfolio
 for you someday. If you have any questions about how to use this 
 template, check out the contributing document in the 
 [Sample Programs](https://github.com/TheRenegadeCoder/sample-programs) repo. 
+With that said, let's talk about what this template supports.
+
+## Programming Languages
+
+Unlike the Sample Programs repo, the Sample Programs template repo only
+supports languages with a valid Docker image for testing. As a result,
+here is the official list of supported programming languages:
+
+- Python
+
+## Projects
+
+Like the Sample Programs repo, the Sample Programs template repo only
+supports projects that have documentation and testing. As a result, 
+here is the official list of supported projects:
+
+- Baklava
+- Binary Search
+- Bubble Sort
+- Capitalize
+- Convex Hull
+- Even/Odd
+- Factorial
+- Fibonacci
+- File IO
+- FizzBuzz
+- Hello World
+- Insertion Sort
+- Job Sequencing
+- Longest Common Subsequence
+- Longest Palindromic String
+- Linear Search 
+- Merge Sort
+- Minimum Spanning Tree
+- Palindromic Number
+- Prime Number
+- Quine
+- ROT-13
+- Reverse String
+- Roman Numeral
+- Selection Sort
+- Sleep Sort
+
+As always, if you're interested in how this projects are tested, check
+out [the official documentation](https://sample-programs.therenegadecoder.com/projects/). 
