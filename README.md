@@ -19,6 +19,7 @@ Unlike the Sample Programs repo, the Sample Programs template repo only
 supports languages with a valid Docker image for testing. As a result,
 here is the official list of supported programming languages:
 
+- Java
 - Python
 
 ## Projects
