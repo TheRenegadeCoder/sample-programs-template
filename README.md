@@ -49,19 +49,19 @@ here is the official list of supported projects:
 | Hello World                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | Insertion Sort             | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | Job Sequencing             | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| Longest Common Subsequence |              |                    |
-| Longest Palindromic String |              |                    |
-| Linear Search              |              |                    |
-| Merge Sort                 |              |                    |
-| Minimum Spanning Tree      |              |                    |
-| Palindromic Number         |              |                    |
-| Prime Number               |              |                    |
-| Quine                      |              |                    |
-| ROT-13                     |              |                    |
-| Reverse String             |              |                    |
-| Roman Numeral              |              |                    |
-| Selection Sort             |              |                    |
-| Sleep Sort                 |              |                    |
+| Longest Common Subsequence | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Longest Palindromic String | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Linear Search              | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Merge Sort                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Minimum Spanning Tree      | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Palindromic Number         | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Prime Number               | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Quine                      | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| ROT-13                     | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Reverse String             | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Roman Numeral              | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Selection Sort             | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Sleep Sort                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 
 As always, if you're interested in how this projects are tested, check
 out [the official documentation](https://sample-programs.therenegadecoder.com/projects/). 
