@@ -34,15 +34,15 @@ Like the Sample Programs repo, the Sample Programs template repo only
 supports projects that have documentation and testing. As a result, 
 here is the official list of supported projects:
 
-| Project                    | Requirements                                                                         | File Name Template       |
-| -------------------------- | ------------------------------------------------------------------------------------ | ------------------------ |
-| Baklava                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/baklava/)       | `f"baklava.{extension}"` |
-| Binary Search              | [Requirements](https://sample-programs.therenegadecoder.com/projects/binary-search/) |                          |
-| Bubble Sort                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                          |
-| Capitalize                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/capitalize/)    |                          |
-| Convex Hull                | [Requirements](https://sample-programs.therenegadecoder.com/projects/convex-hull/)   |                          |
-| Even/Odd                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/even-odd/)      |                          |
-| Factorial                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/factorial/)     |                    |
+| Project                    | Requirements                                                                         | Default Naming Convention |
+| -------------------------- | ------------------------------------------------------------------------------------ | ------------------------- |
+| Baklava                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/baklava/)       | baklava                   |
+| Binary Search              | [Requirements](https://sample-programs.therenegadecoder.com/projects/binary-search/) | binary-search             |
+| Bubble Sort                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   | bubble-sort               |
+| Capitalize                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/capitalize/)    | capitalize                |
+| Convex Hull                | [Requirements](https://sample-programs.therenegadecoder.com/projects/convex-hull/)   | convex-hull               |
+| Even/Odd                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/even-odd/)      | even-odd                  |
+| Factorial                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/factorial/)     | factorial                 |
 | Fibonacci                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | File IO                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | FizzBuzz                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
