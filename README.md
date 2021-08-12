@@ -49,12 +49,12 @@ here is the official list of supported projects:
 | Hello World                |              |                    |
 | Insertion Sort             |              |                    |
 | Job Sequencing             |              |                    |
-| Longest Common Subsequence |
+| Longest Common Subsequence |              |                    |
+| Longest Palindromic String |              |                    |
+| Linear Search              |              |                    |
+| Merge Sort                 |              |                    |
+| Minimum Spanning Tree      |              |                    |
 
-- Longest Palindromic String
-- Linear Search 
-- Merge Sort
-- Minimum Spanning Tree
 - Palindromic Number
 - Prime Number
 - Quine
