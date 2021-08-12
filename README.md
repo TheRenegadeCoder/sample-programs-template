@@ -34,10 +34,10 @@ Like the Sample Programs repo, the Sample Programs template repo only
 supports projects that have documentation and testing. As a result, 
 here is the official list of supported projects:
 
-| Project                    | Requirements | File Name Template |
-| -------------------------- | ------------ | ------------------ |
-| Baklava                    |              |                    |
-| Binary Search              |              |                    |
+| Project                    | Requirements                                                                         | File Name Template |
+| -------------------------- | ------------------------------------------------------------------------------------ | ------------------ |
+| Baklava                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/baklava/)       |                    |
+| Binary Search              | [Requirements](https://sample-programs.therenegadecoder.com/projects/binary-search/) |                    |
 | Bubble Sort                |              |                    |
 | Capitalize                 |              |                    |
 | Convex Hull                |              |                    |
