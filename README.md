@@ -54,15 +54,14 @@ here is the official list of supported projects:
 | Linear Search              |              |                    |
 | Merge Sort                 |              |                    |
 | Minimum Spanning Tree      |              |                    |
-
-- Palindromic Number
-- Prime Number
-- Quine
-- ROT-13
-- Reverse String
-- Roman Numeral
-- Selection Sort
-- Sleep Sort
+| Palindromic Number         |              |                    |
+| Prime Number               |              |                    |
+| Quine                      |              |                    |
+| ROT-13                     |              |                    |
+| Reverse String             |              |                    |
+| Roman Numeral              |              |                    |
+| Selection Sort             |              |                    |
+| Sleep Sort                 |              |                    |
 
 As always, if you're interested in how this projects are tested, check
 out [the official documentation](https://sample-programs.therenegadecoder.com/projects/). 
