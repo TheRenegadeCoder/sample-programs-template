@@ -43,9 +43,9 @@ here is the official list of supported projects:
 | Convex Hull                | [Requirements](https://sample-programs.therenegadecoder.com/projects/convex-hull/)   | convex-hull               |
 | Even/Odd                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/even-odd/)      | even-odd                  |
 | Factorial                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/factorial/)     | factorial                 |
-| Fibonacci                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| File IO                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| FizzBuzz                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Fibonacci                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/fibonacci/)     |                    |
+| File IO                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/file-io/)       |                    |
+| Fizz Buzz                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz/)     |                    |
 | Hello World                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | Insertion Sort             | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | Job Sequencing             | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
