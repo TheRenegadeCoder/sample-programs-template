@@ -19,14 +19,14 @@ Unlike the Sample Programs repo, the Sample Programs template repo only
 supports languages with an official Docker image for testing. As a result,
 here is the official list of supported programming languages:
 
-| Language | Image                                       |
-| -------- | ------------------------------------------- |
-| C        | [gcc](https://hub.docker.com/_/gcc)         |
-| C ++     | [gcc](https://hub.docker.com/_/gcc)         |
-| Go       | [golang](https://hub.docker.com/_/golang)   |
-| Java     | [openjdk](https://hub.docker.com/_/openjdk) |
-| Python   | [python](https://hub.docker.com/_/python)   |
-| Ruby     | [ruby](https://hub.docker.com/_/ruby)       |
+| Language | Documentation | Image                                       |
+| -------- | ------------- | ------------------------------------------- |
+| C        |               | [gcc](https://hub.docker.com/_/gcc)         |
+| C ++     |               | [gcc](https://hub.docker.com/_/gcc)         |
+| Go       |               | [golang](https://hub.docker.com/_/golang)   |
+| Java     |               | [openjdk](https://hub.docker.com/_/openjdk) |
+| Python   |               | [python](https://hub.docker.com/_/python)   |
+| Ruby     |               | [ruby](https://hub.docker.com/_/ruby)       |
 
 ## Projects
 
@@ -39,10 +39,10 @@ here is the official list of supported projects:
 | Baklava                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/baklava/)       |                    |
 | Binary Search              | [Requirements](https://sample-programs.therenegadecoder.com/projects/binary-search/) |                    |
 | Bubble Sort                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| Capitalize                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| Convex Hull                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| Even/Odd                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| Factorial                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Capitalize                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/capitalize/)    |                    |
+| Convex Hull                | [Requirements](https://sample-programs.therenegadecoder.com/projects/convex-hull/)   |                    |
+| Even/Odd                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/even-odd/)      |                    |
+| Factorial                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/factorial/)     |                    |
 | Fibonacci                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | File IO                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | FizzBuzz                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
