@@ -21,11 +21,11 @@ here is the official list of supported programming languages:
 
 | Language | Image                                 |
 | -------- | ------------------------------------- |
-| C        | ([gcc](https://hub.docker.com/_/gcc)) |
-| C ++     | ([gcc](https://hub.docker.com/_/gcc)) |
-| Go       | ([gcc](https://hub.docker.com/_/gcc)) |
-| Java     | ([gcc](https://hub.docker.com/_/gcc)) |
-| Python   | ([gcc](https://hub.docker.com/_/gcc)) |
+| C        | [gcc](https://hub.docker.com/_/gcc)   |
+| C ++     | [gcc](https://hub.docker.com/_/gcc)   |
+| Go       | [gcc](https://hub.docker.com/_/gcc)   |
+| Java     | [gcc](https://hub.docker.com/_/gcc)   |
+| Python   | [gcc](https://hub.docker.com/_/gcc)   |
 
 ## Projects
 
