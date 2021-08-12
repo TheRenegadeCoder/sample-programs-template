@@ -51,9 +51,9 @@ here is the official list of supported projects:
 | Job Sequencing                | [Requirements](https://sample-programs.therenegadecoder.com/projects/job-sequencing/)   | job-sequencing            |
 | Longest Common Subsequence    | [Requirements](https://sample-programs.therenegadecoder.com/projects/lcs/)              | lcs                       |
 | Longest Palindromic Substring | [Requirements](https://sample-programs.therenegadecoder.com/projects/lps/)              | lps                       |
-| Linear Search                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| Merge Sort                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| Minimum Spanning Tree         | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Linear Search                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/linear-search/)    | linear-search             |
+| Merge Sort                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/merge-sort/)       | merge-sort                |
+| Minimum Spanning Tree         | [Requirements](https://sample-programs.therenegadecoder.com/projects/mst/)              | mst                       |
 | Palindromic Number            | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | Prime Number                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | Quine                         | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
