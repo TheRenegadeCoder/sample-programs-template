@@ -34,23 +34,23 @@ Like the Sample Programs repo, the Sample Programs template repo only
 supports projects that have documentation and testing. As a result, 
 here is the official list of supported projects:
 
-| Project        | Requirements | File Name Template |
-| -------------- | ------------ | ------------------ |
-| Baklava        |              |                    |
-| Binary Search  |              |                    |
-| Bubble Sort    |              |                    |
-| Capitalize     |              |                    |
-| Convex Hull    |              |                    |
-| Even/Odd       |              |                    |
-| Factorial      |              |                    |
-| Fibonacci      |              |                    |
-| File IO        |              |                    |
-| FizzBuzz       |              |                    |
-| Hello World    |              |                    |
-| Insertion Sort |              |                    |
+| Project                    | Requirements | File Name Template |
+| -------------------------- | ------------ | ------------------ |
+| Baklava                    |              |                    |
+| Binary Search              |              |                    |
+| Bubble Sort                |              |                    |
+| Capitalize                 |              |                    |
+| Convex Hull                |              |                    |
+| Even/Odd                   |              |                    |
+| Factorial                  |              |                    |
+| Fibonacci                  |              |                    |
+| File IO                    |              |                    |
+| FizzBuzz                   |              |                    |
+| Hello World                |              |                    |
+| Insertion Sort             |              |                    |
+| Job Sequencing             |              |                    |
+| Longest Common Subsequence |
 
-- Job Sequencing
-- Longest Common Subsequence
 - Longest Palindromic String
 - Linear Search 
 - Merge Sort
