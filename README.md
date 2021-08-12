@@ -19,14 +19,14 @@ Unlike the Sample Programs repo, the Sample Programs template repo only
 supports languages with an official Docker image for testing. As a result,
 here is the official list of supported programming languages:
 
-| Language | Documentation | Image                                       |
-| -------- | ------------- | ------------------------------------------- |
-| C        |               | [gcc](https://hub.docker.com/_/gcc)         |
-| C ++     |               | [gcc](https://hub.docker.com/_/gcc)         |
-| Go       |               | [golang](https://hub.docker.com/_/golang)   |
-| Java     |               | [openjdk](https://hub.docker.com/_/openjdk) |
-| Python   |               | [python](https://hub.docker.com/_/python)   |
-| Ruby     |               | [ruby](https://hub.docker.com/_/ruby)       |
+| Language | Documentation                                                                        | Image                                       |
+| -------- | ------------------------------------------------------------------------------------ | ------------------------------------------- |
+| C        | [Documentation](https://sample-programs.therenegadecoder.com/languages/c/)           | [gcc](https://hub.docker.com/_/gcc)         |
+| C ++     | [Documentation](https://sample-programs.therenegadecoder.com/languages/c-plus-plus/) | [gcc](https://hub.docker.com/_/gcc)         |
+| Go       |                                                                                      | [golang](https://hub.docker.com/_/golang)   |
+| Java     | [Documentation](https://sample-programs.therenegadecoder.com/languages/java/)        | [openjdk](https://hub.docker.com/_/openjdk) |
+| Python   | [Documentation](https://sample-programs.therenegadecoder.com/languages/python/)      | [python](https://hub.docker.com/_/python)   |
+| Ruby     |                                                                                      | [ruby](https://hub.docker.com/_/ruby)       |
 
 ## Projects
 
