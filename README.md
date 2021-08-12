@@ -38,6 +38,9 @@ of all the possible naming conventions with examples:
 - pascal: HelloWorld.lang
 - underscore: hello_world.lang
 
+See the default naming convention column in the projects table below for
+the proper naming convention for each project. 
+
 ## Projects
 
 Like the Sample Programs repo, the Sample Programs template repo only
