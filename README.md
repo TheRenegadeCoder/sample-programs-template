@@ -40,12 +40,12 @@ here is the official list of supported projects:
 | Binary Search |              |                    |
 | Bubble Sort   |              |                    |
 | Capitalize    |              |                    |
+| Convex Hull   |              |                    |
+| Even/Odd      |              |                    |
+| Factorial     |              |                    |
+| Fibonacci     |              |                    |
+| File IO       |              |                    |
 
-- Convex Hull
-- Even/Odd
-- Factorial
-- Fibonacci
-- File IO
 - FizzBuzz
 - Hello World
 - Insertion Sort
