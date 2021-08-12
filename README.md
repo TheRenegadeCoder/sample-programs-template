@@ -28,6 +28,16 @@ here is the official list of supported programming languages:
 | Python   | [Documentation](https://sample-programs.therenegadecoder.com/languages/python/)      | [python](https://hub.docker.com/_/python)   | underscore        |
 | Ruby     |                                                                                      | [ruby](https://hub.docker.com/_/ruby)       | hyphen            |
 
+In the table above, you might have noticed the naming convention column.
+The terms in that column indicate the expected naming convention of the code 
+files for the associated language. For example, files in Java are expected 
+to be named in pascal case (e.g., HelloWorld.java). Below you'll find a list
+of all the possible naming conventions with examples:
+
+- hyphen (default): hello-world.lang
+- pascal: HelloWorld.lang
+- underscore: hello_world.lang
+
 ## Projects
 
 Like the Sample Programs repo, the Sample Programs template repo only
