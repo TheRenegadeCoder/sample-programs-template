@@ -16,14 +16,16 @@ With that said, let's talk about what this template supports.
 ## Programming Languages
 
 Unlike the Sample Programs repo, the Sample Programs template repo only
-supports languages with a valid Docker image for testing. As a result,
+supports languages with an official Docker image for testing. As a result,
 here is the official list of supported programming languages:
 
-- C
-- C++
-- Go
-- Java
-- Python
+| Language | Image                                 |
+| -------- | ------------------------------------- |
+| C        | ([gcc](https://hub.docker.com/_/gcc)) |
+| C ++     | ([gcc](https://hub.docker.com/_/gcc)) |
+| Go       | ([gcc](https://hub.docker.com/_/gcc)) |
+| Java     | ([gcc](https://hub.docker.com/_/gcc)) |
+| Python   | ([gcc](https://hub.docker.com/_/gcc)) |
 
 ## Projects
 
