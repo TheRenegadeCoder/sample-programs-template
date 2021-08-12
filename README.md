@@ -57,11 +57,11 @@ here is the official list of supported projects:
 | Palindromic Numbers           | [Requirements](https://sample-programs.therenegadecoder.com/projects/palindromic-number/) | palindromic-number        |
 | Prime Numbers                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/prime-number/)       | prime-number              |
 | Quine                         | [Requirements](https://sample-programs.therenegadecoder.com/projects/quine/)              | quine                     |
-| ROT-13                        | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| Reverse a String              | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| Roman Numeral                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| Selection Sort                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| Sleep Sort                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| ROT-13                        | [Requirements](https://sample-programs.therenegadecoder.com/projects/rot-13/)             | rot-13                    |
+| Reverse a String              | [Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string/)     | reverse-string            |
+| Roman Numeral Conversion      | [Requirements](https://sample-programs.therenegadecoder.com/projects/roman-numeral/)      | roman-numeral             |
+| Selection Sort                | [Requirements](https://sample-programs.therenegadecoder.com/projects/selection-sort/)     | selection-sort            |
+| Sleep Sort                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/sleep-sort/)         | sleep-sort                |
 
 As always, if you're interested in how this projects are tested, check
 out [the official documentation](https://sample-programs.therenegadecoder.com/projects/). 
