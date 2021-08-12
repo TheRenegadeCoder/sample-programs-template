@@ -38,17 +38,17 @@ here is the official list of supported projects:
 | -------------------------- | ------------------------------------------------------------------------------------ | ------------------ |
 | Baklava                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/baklava/)       |                    |
 | Binary Search              | [Requirements](https://sample-programs.therenegadecoder.com/projects/binary-search/) |                    |
-| Bubble Sort                |              |                    |
-| Capitalize                 |              |                    |
-| Convex Hull                |              |                    |
-| Even/Odd                   |              |                    |
-| Factorial                  |              |                    |
-| Fibonacci                  |              |                    |
-| File IO                    |              |                    |
-| FizzBuzz                   |              |                    |
-| Hello World                |              |                    |
-| Insertion Sort             |              |                    |
-| Job Sequencing             |              |                    |
+| Bubble Sort                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Capitalize                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Convex Hull                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Even/Odd                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Factorial                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Fibonacci                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| File IO                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| FizzBuzz                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Hello World                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Insertion Sort             | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| Job Sequencing             | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | Longest Common Subsequence |              |                    |
 | Longest Palindromic String |              |                    |
 | Linear Search              |              |                    |
