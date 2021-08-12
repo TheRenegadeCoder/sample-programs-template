@@ -35,19 +35,19 @@ supports projects that have documentation and testing. As a result,
 here is the official list of supported projects:
 
 | Project                    | Requirements                                                                         | Default Naming Convention |
-| -------------------------- | ------------------------------------------------------------------------------------ | ------------------------- |
-| Baklava                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/baklava/)       | baklava                   |
-| Binary Search              | [Requirements](https://sample-programs.therenegadecoder.com/projects/binary-search/) | binary-search             |
-| Bubble Sort                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   | bubble-sort               |
-| Capitalize                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/capitalize/)    | capitalize                |
-| Convex Hull                | [Requirements](https://sample-programs.therenegadecoder.com/projects/convex-hull/)   | convex-hull               |
-| Even/Odd                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/even-odd/)      | even-odd                  |
-| Factorial                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/factorial/)     | factorial                 |
-| Fibonacci                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/fibonacci/)     |                    |
-| File IO                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/file-io/)       |                    |
-| Fizz Buzz                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz/)     |                    |
-| Hello World                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
-| Insertion Sort             | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
+| -------------------------- | ------------------------------------------------------------------------------------- | ------------------------- |
+| Baklava                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/baklava/)        | baklava                   |
+| Binary Search              | [Requirements](https://sample-programs.therenegadecoder.com/projects/binary-search/)  | binary-search             |
+| Bubble Sort                | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)    | bubble-sort               |
+| Capitalize                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/capitalize/)     | capitalize                |
+| Convex Hull                | [Requirements](https://sample-programs.therenegadecoder.com/projects/convex-hull/)    | convex-hull               |
+| Even/Odd                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/even-odd/)       | even-odd                  |
+| Factorial                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/factorial/)      | factorial                 |
+| Fibonacci                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/fibonacci/)      | fibonacci                 |
+| File IO                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/file-io/)        | file-io                   |
+| Fizz Buzz                  | [Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz/)      | fizz-buzz                 |
+| Hello World                | [Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world/)    | hello-world               |
+| Insertion Sort             | [Requirements](https://sample-programs.therenegadecoder.com/projects/insertion-sort/) | insertion-sort            |
 | Job Sequencing             | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | Longest Common Subsequence | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
 | Longest Palindromic String | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)   |                    |
