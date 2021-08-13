@@ -23,10 +23,10 @@ here is the official list of supported programming languages:
 | -------- | ------------------------------------------------------------------------------------ | ------------------------------------------- | ----------------- |
 | C        | [Documentation](https://sample-programs.therenegadecoder.com/languages/c/)           | [gcc](https://hub.docker.com/_/gcc)         | hyphen            |
 | C ++     | [Documentation](https://sample-programs.therenegadecoder.com/languages/c-plus-plus/) | [gcc](https://hub.docker.com/_/gcc)         | hyphen            |
-| Go       | [Documentation](https://sample-programs.therenegadecoder.com/languages/ruby/)        | [golang](https://hub.docker.com/_/golang)   | hyphen            |
+| Go       |                                                                                      | [golang](https://hub.docker.com/_/golang)   | hyphen            |
 | Java     | [Documentation](https://sample-programs.therenegadecoder.com/languages/java/)        | [openjdk](https://hub.docker.com/_/openjdk) | pascal            |
 | Python   | [Documentation](https://sample-programs.therenegadecoder.com/languages/python/)      | [python](https://hub.docker.com/_/python)   | underscore        |
-| Ruby     |                                                                                      | [ruby](https://hub.docker.com/_/ruby)       | hyphen            |
+| Ruby     | [Documentation](https://sample-programs.therenegadecoder.com/languages/ruby/)        | [ruby](https://hub.docker.com/_/ruby)       | hyphen            |
 
 In the table above, you might have noticed the naming convention column.
 The terms in that column indicate the expected naming convention of the code 
