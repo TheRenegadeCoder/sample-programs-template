@@ -23,7 +23,7 @@ here is the official list of supported programming languages:
 | -------- | ------------------------------------------------------------------------------------ | ------------------------------------------- | ----------------- |
 | C        | [Documentation](https://sample-programs.therenegadecoder.com/languages/c/)           | [gcc](https://hub.docker.com/_/gcc)         | hyphen            |
 | C ++     | [Documentation](https://sample-programs.therenegadecoder.com/languages/c-plus-plus/) | [gcc](https://hub.docker.com/_/gcc)         | hyphen            |
-| Go       |                                                                                      | [golang](https://hub.docker.com/_/golang)   | hyphen            |
+| Go       | [Documentation](https://sample-programs.therenegadecoder.com/languages/ruby/)        | [golang](https://hub.docker.com/_/golang)   | hyphen            |
 | Java     | [Documentation](https://sample-programs.therenegadecoder.com/languages/java/)        | [openjdk](https://hub.docker.com/_/openjdk) | pascal            |
 | Python   | [Documentation](https://sample-programs.therenegadecoder.com/languages/python/)      | [python](https://hub.docker.com/_/python)   | underscore        |
 | Ruby     |                                                                                      | [ruby](https://hub.docker.com/_/ruby)       | hyphen            |
