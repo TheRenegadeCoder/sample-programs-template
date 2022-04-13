@@ -47,34 +47,34 @@ Like the Sample Programs repo, the Sample Programs template repo only
 supports projects that have documentation and testing. As a result, 
 here is the official list of supported projects:
 
-| Project                       | Requirements                                                                              | Default Naming Convention |
-| ----------------------------- | ----------------------------------------------------------------------------------------- | ------------------------- |
-| Baklava                       | [Requirements](https://sample-programs.therenegadecoder.com/projects/baklava/)            | baklava                   |
-| Binary Search                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/binary-search/)      | binary-search             |
-| Bubble Sort                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/bubble-sort/)        | bubble-sort               |
-| Capitalize                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/capitalize/)         | capitalize                |
-| Convex Hull                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/convex-hull/)        | convex-hull               |
-| Even/Odd                      | [Requirements](https://sample-programs.therenegadecoder.com/projects/even-odd/)           | even-odd                  |
-| Factorial                     | [Requirements](https://sample-programs.therenegadecoder.com/projects/factorial/)          | factorial                 |
-| Fibonacci                     | [Requirements](https://sample-programs.therenegadecoder.com/projects/fibonacci/)          | fibonacci                 |
-| File IO                       | [Requirements](https://sample-programs.therenegadecoder.com/projects/file-io/)            | file-io                   |
-| Fizz Buzz                     | [Requirements](https://sample-programs.therenegadecoder.com/projects/fizz-buzz/)          | fizz-buzz                 |
-| Hello World                   | [Requirements](https://sample-programs.therenegadecoder.com/projects/hello-world/)        | hello-world               |
-| Insertion Sort                | [Requirements](https://sample-programs.therenegadecoder.com/projects/insertion-sort/)     | insertion-sort            |
-| Job Sequencing                | [Requirements](https://sample-programs.therenegadecoder.com/projects/job-sequencing/)     | job-sequencing            |
-| Longest Common Subsequence    | [Requirements](https://sample-programs.therenegadecoder.com/projects/lcs/)                | lcs                       |
-| Longest Palindromic Substring | [Requirements](https://sample-programs.therenegadecoder.com/projects/lps/)                | lps                       |
-| Linear Search                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/linear-search/)      | linear-search             |
-| Merge Sort                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/merge-sort/)         | merge-sort                |
-| Minimum Spanning Tree         | [Requirements](https://sample-programs.therenegadecoder.com/projects/mst/)                | mst                       |
-| Palindromic Numbers           | [Requirements](https://sample-programs.therenegadecoder.com/projects/palindromic-number/) | palindromic-number        |
-| Prime Numbers                 | [Requirements](https://sample-programs.therenegadecoder.com/projects/prime-number/)       | prime-number              |
-| Quine                         | [Requirements](https://sample-programs.therenegadecoder.com/projects/quine/)              | quine                     |
-| ROT-13                        | [Requirements](https://sample-programs.therenegadecoder.com/projects/rot-13/)             | rot-13                    |
-| Reverse a String              | [Requirements](https://sample-programs.therenegadecoder.com/projects/reverse-string/)     | reverse-string            |
-| Roman Numeral Conversion      | [Requirements](https://sample-programs.therenegadecoder.com/projects/roman-numeral/)      | roman-numeral             |
-| Selection Sort                | [Requirements](https://sample-programs.therenegadecoder.com/projects/selection-sort/)     | selection-sort            |
-| Sleep Sort                    | [Requirements](https://sample-programs.therenegadecoder.com/projects/sleep-sort/)         | sleep-sort                |
+| Project                       | Requirements                                                           | Default Naming Convention |
+| ----------------------------- | ---------------------------------------------------------------------- | ------------------------- |
+| Baklava                       | [Requirements](https://sampleprograms.io/projects/baklava/)            | baklava                   |
+| Binary Search                 | [Requirements](https://sampleprograms.io/projects/binary-search/)      | binary-search             |
+| Bubble Sort                   | [Requirements](https://sampleprograms.io/projects/bubble-sort/)        | bubble-sort               |
+| Capitalize                    | [Requirements](https://sampleprograms.io/projects/capitalize/)         | capitalize                |
+| Convex Hull                   | [Requirements](https://sampleprograms.io/projects/convex-hull/)        | convex-hull               |
+| Even/Odd                      | [Requirements](https://sampleprograms.io/projects/even-odd/)           | even-odd                  |
+| Factorial                     | [Requirements](https://sampleprograms.io/projects/factorial/)          | factorial                 |
+| Fibonacci                     | [Requirements](https://sampleprograms.io/projects/fibonacci/)          | fibonacci                 |
+| File IO                       | [Requirements](https://sampleprograms.io/projects/file-io/)            | file-io                   |
+| Fizz Buzz                     | [Requirements](https://sampleprograms.io/projects/fizz-buzz/)          | fizz-buzz                 |
+| Hello World                   | [Requirements](https://sampleprograms.io/projects/hello-world/)        | hello-world               |
+| Insertion Sort                | [Requirements](https://sampleprograms.io/projects/insertion-sort/)     | insertion-sort            |
+| Job Sequencing                | [Requirements](https://sampleprograms.io/projects/job-sequencing/)     | job-sequencing            |
+| Longest Common Subsequence    | [Requirements](https://sampleprograms.io/projects/lcs/)                | lcs                       |
+| Longest Palindromic Substring | [Requirements](https://sampleprograms.io/projects/lps/)                | lps                       |
+| Linear Search                 | [Requirements](https://sampleprograms.io/projects/linear-search/)      | linear-search             |
+| Merge Sort                    | [Requirements](https://sampleprograms.io/projects/merge-sort/)         | merge-sort                |
+| Minimum Spanning Tree         | [Requirements](https://sampleprograms.io/projects/mst/)                | mst                       |
+| Palindromic Numbers           | [Requirements](https://sampleprograms.io/projects/palindromic-number/) | palindromic-number        |
+| Prime Numbers                 | [Requirements](https://sampleprograms.io/projects/prime-number/)       | prime-number              |
+| Quine                         | [Requirements](https://sampleprograms.io/projects/quine/)              | quine                     |
+| ROT-13                        | [Requirements](https://sampleprograms.io/projects/rot-13/)             | rot-13                    |
+| Reverse a String              | [Requirements](https://sampleprograms.io/projects/reverse-string/)     | reverse-string            |
+| Roman Numeral Conversion      | [Requirements](https://sampleprograms.io/projects/roman-numeral/)      | roman-numeral             |
+| Selection Sort                | [Requirements](https://sampleprograms.io/projects/selection-sort/)     | selection-sort            |
+| Sleep Sort                    | [Requirements](https://sampleprograms.io/projects/sleep-sort/)         | sleep-sort                |
 
 As always, if you're interested in how this projects are tested, check
-out [the official documentation](https://sample-programs.therenegadecoder.com/projects/). 
+out [the official documentation](https://sampleprograms.io/projects/). 
