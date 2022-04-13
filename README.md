@@ -19,14 +19,14 @@ Unlike the Sample Programs repo, the Sample Programs template repo only
 supports languages with an official Docker image for testing. As a result,
 here is the official list of supported programming languages:
 
-| Language | Documentation                                                                        | Image                                       | Naming Convention |
-| -------- | ------------------------------------------------------------------------------------ | ------------------------------------------- | ----------------- |
-| C        | [Documentation](https://sample-programs.therenegadecoder.com/languages/c/)           | [gcc](https://hub.docker.com/_/gcc)         | hyphen            |
-| C ++     | [Documentation](https://sample-programs.therenegadecoder.com/languages/c-plus-plus/) | [gcc](https://hub.docker.com/_/gcc)         | hyphen            |
-| Go       |                                                                                      | [golang](https://hub.docker.com/_/golang)   | hyphen            |
-| Java     | [Documentation](https://sample-programs.therenegadecoder.com/languages/java/)        | [openjdk](https://hub.docker.com/_/openjdk) | pascal            |
-| Python   | [Documentation](https://sample-programs.therenegadecoder.com/languages/python/)      | [python](https://hub.docker.com/_/python)   | underscore        |
-| Ruby     | [Documentation](https://sample-programs.therenegadecoder.com/languages/ruby/)        | [ruby](https://hub.docker.com/_/ruby)       | hyphen            |
+| Language | Documentation                                                     | Image                                       | Naming Convention |
+| -------- | ----------------------------------------------------------------- | ------------------------------------------- | ----------------- |
+| C        | [Documentation](https://sampleprograms.io/languages/c/)           | [gcc](https://hub.docker.com/_/gcc)         | hyphen            |
+| C ++     | [Documentation](https://sampleprograms.io/languages/c-plus-plus/) | [gcc](https://hub.docker.com/_/gcc)         | hyphen            |
+| Go       |                                                                   | [golang](https://hub.docker.com/_/golang)   | hyphen            |
+| Java     | [Documentation](https://sampleprograms.io/languages/java/)        | [openjdk](https://hub.docker.com/_/openjdk) | pascal            |
+| Python   | [Documentation](https://sampleprograms.io/languages/python/)      | [python](https://hub.docker.com/_/python)   | underscore        |
+| Ruby     | [Documentation](https://sampleprograms.io/languages/ruby/)        | [ruby](https://hub.docker.com/_/ruby)       | hyphen            |
 
 In the table above, you might have noticed the naming convention column.
 The terms in that column indicate the expected naming convention of the code 
